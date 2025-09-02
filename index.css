@@ -298,7 +298,7 @@ li::before{
     }
 
     .card__info-block{
-        display: grid / flex;
+        display: grid;
         padding: var(--space-800) var(--space-700);
         gap: 10px
     }
